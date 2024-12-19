@@ -164,7 +164,7 @@ const About = () => {
               <p>
                 <br />
                 Currently working as a Full Stack Web Developer at{" "}
-                <span>SuiteDB</span>
+                <span>RAMI</span>
               </p>
             </AboutText>
           </Zoom>
